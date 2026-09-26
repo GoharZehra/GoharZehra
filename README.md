@@ -10,7 +10,7 @@ A third year undergrad currently in the process of learning data science and ML 
 ### 🛠️ Languages and Tools
 <br>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css,git,github,vscode,pycharm,jupyter" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,html,css,git,github,vscode,pycharm,selenium" />
 </p>
 <hr>
 
